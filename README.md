@@ -4,6 +4,20 @@ REVO is a local Xray client for Windows. It runs the bundled Xray core and
 connects only to the servers you add. Your server list, subscriptions and settings
 stay on this computer.
 
+## Screenshots
+
+### Connect
+![REVO Connect](screenshots/connect.png)
+
+### Servers
+![REVO Servers](screenshots/servers.png)
+
+### DNS Changer
+![REVO DNS Changer](screenshots/dns-changer.png)
+
+### Settings
+![REVO Settings](screenshots/settings.png)
+
 ## Files
 
 | File | Purpose |
